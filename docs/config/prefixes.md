@@ -4,7 +4,7 @@
     **!prefix clear** leaves you without a prefix meaning you have to mention the bot to set a new one. **!prefix set &lt;prefix&gt;** is most likely a better choice in most cases
 
 !!! info
-	Carl-bot's default prefixes are `@Carl-bot#1536`, `!` and `?`
+	Carl-bot's default prefixes are `@Carl-bot#1536`, `#` and `?`
 
 | Name | Example | Usage |
 | :--- | :--- | :--- |
